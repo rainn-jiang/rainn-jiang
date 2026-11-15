@@ -17,7 +17,7 @@
       ]
     },
     {
-      "title": "- Skills"
+      "title": "- Skills",
       "fields": [
         { "key": "Programming", "value": "C++, Java, Python, LaTeX" },
         { "key": "Other tools", "value": "ELAN, Praat" },
