@@ -4,7 +4,7 @@
       "title": "rainn-jiang@github",
       "fields": [
         { "key": "Name", "value": "Rainn Jiang" },
-        { "key": "Pronouns", "value": "He/Him/他" },
+        { "key": "Pronouns", "value": "He/Him" },
         { "key": "Location", "value": "Urbana, IL" },
         { "key": "Affiliation", "value": "Department of Linguistics, University of Illinois Urbana-Champaign" }
       ]
@@ -30,7 +30,7 @@
     },
     {
       "fields": [
-        { "key": "Fun fact", "value": "I can drink 40 oz cold brew in one sitting! ☕" }
+        { "key": "Fun fact", "value": "I can drink 40 oz cold brew in one sitting!" }
       ]
     }
   ]
