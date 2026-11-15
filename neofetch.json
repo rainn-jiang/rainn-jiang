@@ -6,20 +6,22 @@
         { "key": "Name", "value": "Rainn Jiang" },
         { "key": "Pronouns", "value": "He/Him" },
         { "key": "Location", "value": "Urbana, IL" },
-        { "key": "Affiliation", "value": "Department of Linguistics, University of Illinois Urbana-Champaign" }
+        { "key": "Affiliation", "value": "Dept. of LING, UIUC" }
       ]
     },
     {
       "title": "- Research",
       "fields": [
         { "key": "Interests", "value": "Computational Linguistics" },
-        { "key": "Approach", "value": "Computational methods to test and explore linguistic theories" }
+        { "key": "Approach", "value": "Computational methods for linguistic theories" }
       ]
     },
     {
+      "title": "- Skills"
       "fields": [
-        { "key": "Languages", "value": "C++, Java, Python, LaTeX" },
-        { "key": "Other tools", "value": "ELAN, Praat" }
+        { "key": "Programming", "value": "C++, Java, Python, LaTeX" },
+        { "key": "Other tools", "value": "ELAN, Praat" },
+        { "key": "Natural Languages", "value": "English and Mandarin"}
       ]
     },
     {
