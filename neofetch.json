@@ -4,10 +4,8 @@
       "title": "{{rainn-jiang}}@github",
       "fields": [
         { "key": "Name", "value": "{{Rainn Jiang}}" },
-        { "key": "Location", "value": "{{location}}" },
-        { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "{{company}}" }
+        { "key": "Location", "value": "{{Urbana, IL}}" },
+        { "key": "Affiliation", "value": "{{Department of Linguistics, University of Illinois Urbana-Champaign}}" }
       ]
     },
     {
@@ -17,17 +15,9 @@
       ]
     },
     {
-      "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
-      ]
-    },
-    {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
+        { "key": "Email", "value": "{{rainnj2@illinois.edu}}" },
       ]
     }
   ],
