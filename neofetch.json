@@ -1,34 +1,37 @@
 {
   "sections": [
     {
-      "title": "{{rainn-jiang}}@github",
+      "title": "rainn-jiang@github",
       "fields": [
-        { "key": "Name", "value": "{{Rainn Jiang}}" },
-        { "key": "Location", "value": "{{Urbana, IL}}" },
-        { "key": "Affiliation", "value": "{{Department of Linguistics, University of Illinois Urbana-Champaign}}" }
+        { "key": "Name", "value": "Rainn Jiang" },
+        { "key": "Pronouns", "value": "He/Him/他" },
+        { "key": "Location", "value": "Urbana, IL" },
+        { "key": "Affiliation", "value": "Department of Linguistics, University of Illinois Urbana-Champaign" }
+      ]
+    },
+    {
+      "title": "- Research",
+      "fields": [
+        { "key": "Interests", "value": "Computational Linguistics" },
+        { "key": "Approach", "value": "Computational methods to test and explore linguistic theories" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{C++}, {Java}, {Python}, {Latex}" },
-        { "key": "Other tools", "value": "{ {ELAN}, {Praat}}"
+        { "key": "Languages", "value": "C++, Java, Python, LaTeX" },
+        { "key": "Other tools", "value": "ELAN, Praat" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{rainnj2@illinois.edu}}" },
+        { "key": "Email", "value": "rainnj2@illinois.edu" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Fun fact", "value": "I can drink 40 oz cold brew in one sitting! ☕" }
       ]
     }
   ],
-  "stats": {
-    "title": "- GitHub Stats",
-    "rows": [
-      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
-      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
-      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
-      "loc"
-    ]
-  }
 }
