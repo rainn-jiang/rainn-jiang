@@ -6,3 +6,4 @@
     <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=rainn-jiang&theme=github-light">
   </picture>
 </a>
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=rainn-jiang&config=https%3A%2F%2Fraw.githubusercontent.com%2Frainn-jiang%2FYOUR_GITHUB_PROJECT%2Fmain%2Fconfig.json)
